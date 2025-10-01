@@ -1,5 +1,5 @@
 # Sleng Compiler
-Sleng Compiler is a Python-based compiler for the **Sleng Interpreter** supporting Sleng Interpreter legnuage ko ap isse compile kar sakte hain. It includes a tokenizer, parser, AST generator, and intermediate assembly code generator.
+Sleng Compiler is a Python-based compiler for the **Sleng Interpreter** supporting Sleng Interpreter legnuage ko ap isse compile kar sakte hain. includes kiya tokenizer, parser, AST generator, and intermediate assembly code generator.
 
 ## available Features
 - Arithmetic operations (`+`, `-`, `*`, `/`, `%`, `**`, `//`)
