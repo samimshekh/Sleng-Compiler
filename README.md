@@ -9,6 +9,7 @@ Sleng Compiler is a Python-based compiler for the **Sleng Interpreter** supporti
 - Parentheses grouping and operator precedence
 - AST generation and intermediate assembly code generation
 
+```bash 
 my Operator Precedence (Highest to Lowest)
 Precedence  	Operator	            Description
 1 (Highest)	    ()	                    Parentheses (grouping)
@@ -24,6 +25,7 @@ Precedence  	Operator	            Description
 11		        not                     Logical NOT
 12	            and	                    Logical AND
 13 (Lowest)		or                      Logical OR
+```
 
 ## Example Usage
 
