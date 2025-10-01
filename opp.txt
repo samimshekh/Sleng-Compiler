@@ -1,0 +1,15 @@
+my Operator Precedence (Highest to Lowest)
+Precedence  	Operator	            Description
+1 (Highest)	    ()	                    Parentheses (grouping)
+3		        +x, -x, ~x              Unary plus, minus, bitwise NOT
+2		        **                      Exponentiation (right-to-left)
+4		        *, /, //, %             Multiplication, division, floor division, modulo
+5		        +, -                    Addition, subtraction
+6		        <<, >>                  Bitwise shift left, right
+7		        &                       Bitwise AND
+8		        ^                       Bitwise XOR
+9		        |                       Bitwise OR
+10	            ==, !=, >, <, >=, <=	Comparisons (all have the same precedence)
+11		        not                     Logical NOT
+12	            and	                    Logical AND
+13 (Lowest)		or                      Logical OR
